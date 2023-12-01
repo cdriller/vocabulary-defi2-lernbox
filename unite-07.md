@@ -1,4 +1,3 @@
-<!-- Vokabeln von https://moodle.zems.tu-berlin.de/pluginfile.php/275068/mod_resource/content/1/Defi_2_Glossar_FR_DE.pdf für Unité 7-->
 Français / Unité 7:
 abandonné (m), abandonnée (f) / verlassen
 l'actualité (f) / Aktualität

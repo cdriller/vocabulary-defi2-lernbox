@@ -1,4 +1,3 @@
-<!-- Vokabeln von https://moodle.zems.tu-berlin.de/pluginfile.php/275068/mod_resource/content/1/Defi_2_Glossar_FR_DE.pdf für Unité 1-->
 Français / V:
 l'achat (m) / Einkauf
 acheter en ligne / Online kaufen

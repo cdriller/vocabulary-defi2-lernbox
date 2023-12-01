@@ -1,4 +1,3 @@
-<!-- Vokabeln von https://moodle.zems.tu-berlin.de/pluginfile.php/275068/mod_resource/content/1/Defi_2_Glossar_FR_DE.pdf für Unité 4-->
 Français / Unité 4:
 l'absence (f) / Abwesenheit
 accessible m/f zugänglich
